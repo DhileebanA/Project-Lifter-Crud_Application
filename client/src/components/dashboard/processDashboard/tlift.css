@@ -1,0 +1,42 @@
+#container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+#pageTitle {
+    text-align: center;
+    color: #007bff;
+}
+
+#formHeading {
+    margin-top: 20px;
+    color: #333;
+}
+
+#formLabel {
+    font-weight: bold;
+}
+
+#findButton {
+    margin-top: 20px;
+    background-color: #007bff;
+    border: none;
+}
+
+#findButton:hover {
+    background-color: #0056b3;
+}
+
+#lifterFrom, #lifterTo {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+#lifterFromLabel, #lifterToLabel {
+    color: #555;
+}
+

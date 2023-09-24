@@ -1,0 +1,26 @@
+.memBody{
+    background-image: linear-gradient(to right top, rgb(0, 102, 128),rgb(185, 238, 238));
+    min-height: 91vh;
+}
+.loginImg{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+#reUse{
+    align-items: start;
+}
+
+.bgTextBox{
+    background-color: lightgray;
+    height: 40px;
+}
+.borderTextBox{
+    border: none;
+    background-color: lightgray;
+    height: 40px;
+    padding-left: 10px;
+    outline: none;
+}
+
+ 

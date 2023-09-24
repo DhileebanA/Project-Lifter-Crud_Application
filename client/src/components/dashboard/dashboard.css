@@ -1,0 +1,30 @@
+.profile-header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.name-color{
+    color: rgb(24, 24, 66);
+}
+
+.profile-button {
+    margin-top: 10px;
+}
+
+.ride-details {
+    background-color: #e4e4e4;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.ride-button {
+    margin-top: 10px;
+}
+
+.bodyImg{
+    background-image: linear-gradient(to top, rgb(0, 102, 128),rgb(185, 238, 238));
+    min-height: 100vh;
+}

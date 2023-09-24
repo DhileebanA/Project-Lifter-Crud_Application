@@ -1,0 +1,35 @@
+.gbody {
+    background-color: #f7f7f7;
+    padding: 20px;
+    min-height:100vh;
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-floating input {
+    border: none;
+    border-bottom: 2px solid #007bff;
+    border-radius: 0;
+}
+
+.form-floating label {
+    color: #007bff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
